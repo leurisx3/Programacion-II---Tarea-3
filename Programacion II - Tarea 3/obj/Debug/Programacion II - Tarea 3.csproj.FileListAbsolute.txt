@@ -1,0 +1,7 @@
+C:\Users\leuri\source\repos\Programacion II - Tarea 3\Programacion II - Tarea 3\bin\Debug\Programacion II - Tarea 3.exe.config
+C:\Users\leuri\source\repos\Programacion II - Tarea 3\Programacion II - Tarea 3\bin\Debug\Programacion II - Tarea 3.exe
+C:\Users\leuri\source\repos\Programacion II - Tarea 3\Programacion II - Tarea 3\bin\Debug\Programacion II - Tarea 3.pdb
+C:\Users\leuri\source\repos\Programacion II - Tarea 3\Programacion II - Tarea 3\obj\Debug\Programacion II - Tarea 3.csprojAssemblyReference.cache
+C:\Users\leuri\source\repos\Programacion II - Tarea 3\Programacion II - Tarea 3\obj\Debug\Programacion II - Tarea 3.csproj.CoreCompileInputs.cache
+C:\Users\leuri\source\repos\Programacion II - Tarea 3\Programacion II - Tarea 3\obj\Debug\Programacion II - Tarea 3.exe
+C:\Users\leuri\source\repos\Programacion II - Tarea 3\Programacion II - Tarea 3\obj\Debug\Programacion II - Tarea 3.pdb
